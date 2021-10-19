@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+}
+h1:hover{
+    font-size: 70px;
+}
+img{
+    margin-left: 600px;
+}
